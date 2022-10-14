@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tyr3llhcx
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web Developement and Designing
